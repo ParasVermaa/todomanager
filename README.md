@@ -1,5 +1,5 @@
 # todomanager
-# 🎯 Cute & Simple To-Do List Manager
+# 🎯  To-Do List Manager
 A beautifully designed To-Do List Manager built using HTML, CSS, and JavaScript. This project features a clean, modern, and appealing UI with a focus on simplicity, usability, and cuteness. 🌸✨
 
 # 📸 Preview
